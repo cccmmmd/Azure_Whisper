@@ -3,3 +3,5 @@ flask
 configparser
 openai
 azure-ai-translation-text
+azure-cognitiveservices-speech
+librosa
